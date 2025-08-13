@@ -1,0 +1,10 @@
+---
+title: "Exploring Data"
+author: "Andrew Ormrod"
+date: "2025-08-13"
+output: github_document
+---
+
+```{r}
+print("hello")
+```
