@@ -7,4 +7,5 @@ output: github_document
 
 ```{r}
 print("hello")
+6+4
 ```
