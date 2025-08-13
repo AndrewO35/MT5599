@@ -5,6 +5,7 @@ Andrew Ormrod
 
 ``` r
 print("hello")
+6+4
 ```
 
     ## [1] "hello"
